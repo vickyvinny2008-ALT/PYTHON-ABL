@@ -1,6 +1,17 @@
 # Set Operations and Duplicate Removal
-a = set(map(int, input("Enter first group of integers: ").split()))
-b = set(map(int, input("Enter second group of integers: ").split()))
+# Topics: sets, input/output, type conversion, loops, membership and set operations
+
+first_values = input("Enter first group of integers: ").split()
+second_values = input("Enter second group of integers: ").split()
+
+a = set()
+b = set()
+
+for value in first_values:
+    a.add(int(value))
+
+for value in second_values:
+    b.add(int(value))
 
 print("Set A:", a)
 print("Set B:", b)
