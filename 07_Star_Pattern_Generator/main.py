@@ -1,4 +1,6 @@
 # Star Pattern Generator
+# Topics: loops, nested loops, conditional statements, output
+
 rows = int(input("Enter number of rows: "))
 
 if rows <= 0:
