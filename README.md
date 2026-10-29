@@ -47,8 +47,13 @@ On some systems, use `python3 main.py`.
 ## Notes
 
 - The electricity rates and grading rules are illustrative examples for programming practice.
-- Run each program yourself and capture genuine output screenshots for your assignment.
+- [View case-study execution output captures](./SCREENSHOTS.md). These are terminal-style SVG transcripts; capture raw desktop screenshots separately if your instructor specifically requires them.
 - The college circular requests difficult-level problems from a prescribed list of 100; these selected projects are intentionally easy. Confirm with your faculty that these topics are accepted.
+
+## Test cases and screenshots
+
+- [Test cases and execution results](./TEST_CASES.md)
+- [Case-study output captures](./SCREENSHOTS.md)
 
 ## Resubmission
 
