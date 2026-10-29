@@ -1,5 +1,7 @@
 # Electricity Bill Calculator
 # Illustrative rates for this assignment; not an official tariff.
+# Topics: input/output, type conversion, arithmetic, conditional statements
+
 units = float(input("Enter electricity units consumed: "))
 
 if units < 0:
