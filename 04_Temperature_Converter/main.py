@@ -1,4 +1,6 @@
 # Temperature Converter
+# Topics: input/output, type conversion, arithmetic, conditional statements
+
 print("1. Celsius to Fahrenheit")
 print("2. Fahrenheit to Celsius")
 choice = input("Enter choice (1 or 2): ")
