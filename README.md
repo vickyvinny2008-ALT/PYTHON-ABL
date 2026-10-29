@@ -49,3 +49,7 @@ On some systems, use `python3 main.py`.
 - The electricity rates and grading rules are illustrative examples for programming practice.
 - Run each program yourself and capture genuine output screenshots for your assignment.
 - The college circular requests difficult-level problems from a prescribed list of 100; these selected projects are intentionally easy. Confirm with your faculty that these topics are accepted.
+
+## Resubmission
+
+Assignment files reviewed and re-submitted on 2026-10-29. Each of the 10 project folders contains its Python source (`main.py`) and project documentation (`README.md`).
