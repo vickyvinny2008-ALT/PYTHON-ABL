@@ -89,3 +89,27 @@ python 01_Simple_Calculator/main.py
 ```
 
 Repeat with the relevant folder for each of the other projects.
+
+## Execution results (2026-10-29)
+
+The 20 checks below were executed against the current `main.py` program logic using scripted input and captured output. **20 passed, 0 failed.** These are smoke tests for representative valid and invalid inputs, not exhaustive testing.
+
+| Project | Test cases run | Result |
+|---|---:|---|
+| 01 Simple Calculator | Addition; division by zero | 2/2 PASS |
+| 02 Student Grade Calculator | Average/grade B; marks above 100 | 2/2 PASS |
+| 03 Electricity Bill Calculator | 100-unit bill; negative units | 2/2 PASS |
+| 04 Temperature Converter | 0°C to 32°F; 32°F to 0°C | 2/2 PASS |
+| 05 String Analyzer | Text with digits; empty string | 2/2 PASS |
+| 06 Palindrome Checker | Palindrome; non-palindrome | 2/2 PASS |
+| 07 Star Pattern Generator | 3-row pattern; zero rows | 2/2 PASS |
+| 08 List Statistics | Values 1–5; zero count | 2/2 PASS |
+| 09 Student Record Using Tuples | Passing record; failing record with a spaced name | 2/2 PASS |
+| 10 Set Operations | Union/intersection/difference and membership present/absent | 2/2 PASS |
+| **Total** | **20** | **20 PASS, 0 FAIL** |
+
+### Important notes
+- The scripts were run with representative test inputs and their printed output was checked against expected output.
+- Set display order can vary in Python; compare the set's values rather than relying on printed ordering.
+- These results verify the current program logic for the listed cases only. Invalid non-numeric input and other unlisted edge cases have not all been tested.
+
