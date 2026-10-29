@@ -1,4 +1,6 @@
 # Student Record Using Tuples
+# Topics: tuples, variables, input/output, type conversion, conditions
+
 roll_no = input("Enter roll number: ")
 name = input("Enter student name: ")
 marks = float(input("Enter marks: "))
