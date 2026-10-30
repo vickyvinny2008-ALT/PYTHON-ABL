@@ -50,6 +50,10 @@ On some systems, use `python3 main.py`.
 - [View case-study execution output captures](./SCREENSHOTS.md). These are terminal-style SVG transcripts; capture raw desktop screenshots separately if your instructor specifically requires them.
 - The college circular requests difficult-level problems from a prescribed list of 100; these selected projects are intentionally easy. Confirm with your faculty that these topics are accepted.
 
+## Flowcharts
+
+- [View flowcharts for all 10 case studies](./FLOWCHARTS.md) (GitHub-rendered Mermaid diagrams)
+
 ## Test cases and screenshots
 
 - [Test cases and execution results](./TEST_CASES.md)
